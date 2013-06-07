@@ -7718,189 +7718,40 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <plain>
 </plain>
 <instances>
-<instance part="F0" gate="1" x="86.36" y="58.42" rot="R270"/>
-<instance part="F1" gate="1" x="63.5" y="58.42" rot="R270"/>
-<instance part="LS0" gate="1" x="111.76" y="45.72" rot="R180"/>
-<instance part="LS1" gate="1" x="111.76" y="50.8" rot="R180"/>
-<instance part="IC1" gate="A" x="73.66" y="50.8" rot="R180"/>
-<instance part="IC1" gate="B" x="73.66" y="38.1"/>
-<instance part="IC1" gate="C" x="76.2" y="93.98" rot="R90"/>
-<instance part="IC1" gate="D" x="86.36" y="93.98" rot="R90"/>
-<instance part="IC1" gate="E" x="96.52" y="93.98" rot="R90"/>
-<instance part="IC1" gate="F" x="106.68" y="93.98" rot="R90"/>
-<instance part="T1" gate="G$1" x="104.14" y="38.1"/>
-<instance part="C1" gate="G$1" x="86.36" y="45.72"/>
-<instance part="X1" gate="G$1" x="45.72" y="60.96" rot="MR0"/>
-<instance part="X1" gate="S" x="45.72" y="50.8" rot="MR0"/>
-<instance part="R1" gate="G$1" x="53.34" y="71.12" rot="R90"/>
-<instance part="GND1" gate="1" x="45.72" y="45.72"/>
-<instance part="GND6" gate="1" x="106.68" y="30.48"/>
-<instance part="TP1" gate="G$1" x="73.66" y="15.24"/>
-<instance part="TP2" gate="G$1" x="86.36" y="78.74" rot="R180"/>
-<instance part="TP3" gate="G$1" x="86.36" y="109.22"/>
-<instance part="TP4" gate="G$1" x="96.52" y="78.74" rot="R180"/>
-<instance part="TP5" gate="G$1" x="96.52" y="109.22"/>
-<instance part="TP6" gate="G$1" x="106.68" y="78.74" rot="R180"/>
-<instance part="TP7" gate="G$1" x="106.68" y="109.22"/>
-<instance part="TP8" gate="G$1" x="73.66" y="7.62"/>
-<instance part="TP9" gate="G$1" x="137.16" y="43.18" rot="R90"/>
-<instance part="TP10" gate="G$1" x="137.16" y="38.1" rot="R90"/>
-<instance part="TP11" gate="G$1" x="144.78" y="83.82" rot="R90"/>
-<instance part="TP12" gate="G$1" x="144.78" y="78.74" rot="R90"/>
-<instance part="TP13" gate="G$1" x="144.78" y="73.66" rot="R90"/>
-<instance part="TP14" gate="G$1" x="144.78" y="68.58" rot="R90"/>
-<instance part="TP15" gate="G$1" x="144.78" y="63.5" rot="R90"/>
-<instance part="TP16" gate="G$1" x="144.78" y="58.42" rot="R90"/>
-<instance part="TP17" gate="G$1" x="144.78" y="53.34" rot="R90"/>
-<instance part="TP18" gate="G$1" x="144.78" y="48.26" rot="R90"/>
-<instance part="TP19" gate="G$1" x="144.78" y="43.18" rot="R90"/>
-<instance part="TP20" gate="G$1" x="144.78" y="38.1" rot="R90"/>
-<instance part="TP21" gate="G$1" x="152.4" y="83.82" rot="R90"/>
-<instance part="TP22" gate="G$1" x="152.4" y="78.74" rot="R90"/>
-<instance part="TP23" gate="G$1" x="152.4" y="73.66" rot="R90"/>
-<instance part="TP24" gate="G$1" x="152.4" y="68.58" rot="R90"/>
-<instance part="TP25" gate="G$1" x="152.4" y="63.5" rot="R90"/>
-<instance part="TP26" gate="G$1" x="152.4" y="58.42" rot="R90"/>
-<instance part="TP27" gate="G$1" x="152.4" y="53.34" rot="R90"/>
-<instance part="TP28" gate="G$1" x="152.4" y="48.26" rot="R90"/>
-<instance part="TP29" gate="G$1" x="152.4" y="43.18" rot="R90"/>
-<instance part="TP30" gate="G$1" x="152.4" y="38.1" rot="R90"/>
-<instance part="TP31" gate="G$1" x="160.02" y="83.82" rot="R90"/>
-<instance part="TP32" gate="G$1" x="160.02" y="78.74" rot="R90"/>
-<instance part="TP33" gate="G$1" x="160.02" y="73.66" rot="R90"/>
-<instance part="TP34" gate="G$1" x="160.02" y="68.58" rot="R90"/>
-<instance part="TP35" gate="G$1" x="160.02" y="63.5" rot="R90"/>
-<instance part="TP36" gate="G$1" x="160.02" y="58.42" rot="R90"/>
-<instance part="TP37" gate="G$1" x="160.02" y="53.34" rot="R90"/>
-<instance part="TP38" gate="G$1" x="160.02" y="48.26" rot="R90"/>
-<instance part="TP39" gate="G$1" x="160.02" y="43.18" rot="R90"/>
-<instance part="TP40" gate="G$1" x="160.02" y="38.1" rot="R90"/>
-<instance part="TP41" gate="G$1" x="167.64" y="83.82" rot="R90"/>
-<instance part="TP42" gate="G$1" x="167.64" y="78.74" rot="R90"/>
-<instance part="TP43" gate="G$1" x="167.64" y="73.66" rot="R90"/>
-<instance part="TP44" gate="G$1" x="167.64" y="68.58" rot="R90"/>
-<instance part="TP45" gate="G$1" x="167.64" y="63.5" rot="R90"/>
-<instance part="TP46" gate="G$1" x="167.64" y="58.42" rot="R90"/>
-<instance part="TP47" gate="G$1" x="167.64" y="53.34" rot="R90"/>
-<instance part="TP48" gate="G$1" x="167.64" y="48.26" rot="R90"/>
-<instance part="TP49" gate="G$1" x="167.64" y="43.18" rot="R90"/>
-<instance part="TP50" gate="G$1" x="167.64" y="38.1" rot="R90"/>
-<instance part="TP51" gate="G$1" x="175.26" y="83.82" rot="R90"/>
-<instance part="TP52" gate="G$1" x="175.26" y="78.74" rot="R90"/>
-<instance part="TP53" gate="G$1" x="175.26" y="73.66" rot="R90"/>
-<instance part="TP54" gate="G$1" x="175.26" y="68.58" rot="R90"/>
-<instance part="TP55" gate="G$1" x="175.26" y="63.5" rot="R90"/>
-<instance part="TP56" gate="G$1" x="175.26" y="58.42" rot="R90"/>
-<instance part="TP57" gate="G$1" x="175.26" y="53.34" rot="R90"/>
-<instance part="TP58" gate="G$1" x="175.26" y="48.26" rot="R90"/>
-<instance part="TP59" gate="G$1" x="175.26" y="43.18" rot="R90"/>
-<instance part="TP60" gate="G$1" x="175.26" y="38.1" rot="R90"/>
-<instance part="TP61" gate="G$1" x="182.88" y="83.82" rot="R90"/>
-<instance part="TP62" gate="G$1" x="182.88" y="78.74" rot="R90"/>
-<instance part="TP63" gate="G$1" x="182.88" y="73.66" rot="R90"/>
-<instance part="TP64" gate="G$1" x="182.88" y="68.58" rot="R90"/>
-<instance part="TP65" gate="G$1" x="182.88" y="63.5" rot="R90"/>
-<instance part="TP66" gate="G$1" x="182.88" y="58.42" rot="R90"/>
-<instance part="TP67" gate="G$1" x="182.88" y="53.34" rot="R90"/>
-<instance part="TP68" gate="G$1" x="182.88" y="48.26" rot="R90"/>
-<instance part="TP69" gate="G$1" x="182.88" y="43.18" rot="R90"/>
-<instance part="TP70" gate="G$1" x="182.88" y="38.1" rot="R90"/>
-<instance part="TP71" gate="G$1" x="190.5" y="83.82" rot="R90"/>
-<instance part="TP72" gate="G$1" x="190.5" y="78.74" rot="R90"/>
-<instance part="TP73" gate="G$1" x="190.5" y="73.66" rot="R90"/>
-<instance part="TP74" gate="G$1" x="190.5" y="68.58" rot="R90"/>
-<instance part="TP75" gate="G$1" x="190.5" y="63.5" rot="R90"/>
-<instance part="TP76" gate="G$1" x="190.5" y="58.42" rot="R90"/>
-<instance part="TP77" gate="G$1" x="190.5" y="53.34" rot="R90"/>
-<instance part="TP78" gate="G$1" x="190.5" y="48.26" rot="R90"/>
-<instance part="TP79" gate="G$1" x="190.5" y="43.18" rot="R90"/>
-<instance part="TP80" gate="G$1" x="190.5" y="38.1" rot="R90"/>
-<instance part="TP81" gate="G$1" x="198.12" y="83.82" rot="R90"/>
-<instance part="TP82" gate="G$1" x="198.12" y="78.74" rot="R90"/>
-<instance part="TP83" gate="G$1" x="198.12" y="73.66" rot="R90"/>
-<instance part="TP84" gate="G$1" x="198.12" y="68.58" rot="R90"/>
-<instance part="TP85" gate="G$1" x="198.12" y="63.5" rot="R90"/>
-<instance part="TP86" gate="G$1" x="78.74" y="7.62"/>
-<instance part="TP87" gate="G$1" x="198.12" y="53.34" rot="R90"/>
-<instance part="TP88" gate="G$1" x="198.12" y="48.26" rot="R90"/>
-<instance part="TP89" gate="G$1" x="198.12" y="43.18" rot="R90"/>
-<instance part="TP90" gate="G$1" x="198.12" y="38.1" rot="R90"/>
-<instance part="TP91" gate="G$1" x="205.74" y="83.82" rot="R90"/>
-<instance part="TP92" gate="G$1" x="205.74" y="78.74" rot="R90"/>
-<instance part="TP93" gate="G$1" x="205.74" y="73.66" rot="R90"/>
-<instance part="TP94" gate="G$1" x="205.74" y="68.58" rot="R90"/>
-<instance part="TP95" gate="G$1" x="205.74" y="63.5" rot="R90"/>
-<instance part="TP96" gate="G$1" x="205.74" y="58.42" rot="R90"/>
-<instance part="TP97" gate="G$1" x="101.6" y="45.72" rot="R90"/>
-<instance part="TP98" gate="G$1" x="78.74" y="15.24"/>
-<instance part="TP99" gate="G$1" x="205.74" y="43.18" rot="R90"/>
-<instance part="TP100" gate="G$1" x="205.74" y="38.1" rot="R90"/>
-<instance part="TP101" gate="G$1" x="213.36" y="83.82" rot="R90"/>
-<instance part="TP102" gate="G$1" x="213.36" y="78.74" rot="R90"/>
-<instance part="TP103" gate="G$1" x="213.36" y="73.66" rot="R90"/>
-<instance part="TP104" gate="G$1" x="213.36" y="68.58" rot="R90"/>
-<instance part="TP105" gate="G$1" x="213.36" y="63.5" rot="R90"/>
-<instance part="TP106" gate="G$1" x="213.36" y="58.42" rot="R90"/>
-<instance part="TP107" gate="G$1" x="213.36" y="53.34" rot="R90"/>
-<instance part="TP108" gate="G$1" x="213.36" y="48.26" rot="R90"/>
-<instance part="TP109" gate="G$1" x="213.36" y="43.18" rot="R90"/>
-<instance part="TP110" gate="G$1" x="213.36" y="38.1" rot="R90"/>
-<instance part="TP111" gate="G$1" x="220.98" y="83.82" rot="R90"/>
-<instance part="TP112" gate="G$1" x="220.98" y="78.74" rot="R90"/>
-<instance part="TP113" gate="G$1" x="220.98" y="73.66" rot="R90"/>
-<instance part="TP114" gate="G$1" x="220.98" y="68.58" rot="R90"/>
-<instance part="TP115" gate="G$1" x="220.98" y="63.5" rot="R90"/>
-<instance part="TP116" gate="G$1" x="220.98" y="58.42" rot="R90"/>
-<instance part="TP117" gate="G$1" x="220.98" y="53.34" rot="R90"/>
-<instance part="TP118" gate="G$1" x="220.98" y="48.26" rot="R90"/>
-<instance part="TP119" gate="G$1" x="220.98" y="43.18" rot="R90"/>
-<instance part="TP120" gate="G$1" x="220.98" y="38.1" rot="R90"/>
-<instance part="TP121" gate="G$1" x="228.6" y="83.82" rot="R90"/>
-<instance part="TP122" gate="G$1" x="228.6" y="78.74" rot="R90"/>
-<instance part="TP123" gate="G$1" x="228.6" y="73.66" rot="R90"/>
-<instance part="TP124" gate="G$1" x="228.6" y="68.58" rot="R90"/>
-<instance part="TP125" gate="G$1" x="228.6" y="63.5" rot="R90"/>
-<instance part="TP126" gate="G$1" x="228.6" y="58.42" rot="R90"/>
-<instance part="TP127" gate="G$1" x="228.6" y="53.34" rot="R90"/>
-<instance part="TP128" gate="G$1" x="228.6" y="48.26" rot="R90"/>
-<instance part="TP129" gate="G$1" x="228.6" y="43.18" rot="R90"/>
-<instance part="TP130" gate="G$1" x="228.6" y="38.1" rot="R90"/>
-<instance part="TP131" gate="G$1" x="236.22" y="83.82" rot="R90"/>
-<instance part="TP132" gate="G$1" x="236.22" y="78.74" rot="R90"/>
-<instance part="TP133" gate="G$1" x="236.22" y="73.66" rot="R90"/>
-<instance part="TP134" gate="G$1" x="236.22" y="68.58" rot="R90"/>
-<instance part="TP135" gate="G$1" x="236.22" y="63.5" rot="R90"/>
-<instance part="TP136" gate="G$1" x="236.22" y="58.42" rot="R90"/>
-<instance part="TP137" gate="G$1" x="236.22" y="53.34" rot="R90"/>
-<instance part="TP138" gate="G$1" x="236.22" y="48.26" rot="R90"/>
-<instance part="TP139" gate="G$1" x="236.22" y="43.18" rot="R90"/>
-<instance part="TP140" gate="G$1" x="236.22" y="38.1" rot="R90"/>
-<instance part="TP141" gate="G$1" x="243.84" y="83.82" rot="R90"/>
-<instance part="TP142" gate="G$1" x="243.84" y="78.74" rot="R90"/>
-<instance part="TP143" gate="G$1" x="243.84" y="73.66" rot="R90"/>
-<instance part="TP144" gate="G$1" x="243.84" y="68.58" rot="R90"/>
-<instance part="TP145" gate="G$1" x="243.84" y="63.5" rot="R90"/>
-<instance part="TP146" gate="G$1" x="243.84" y="58.42" rot="R90"/>
-<instance part="TP147" gate="G$1" x="243.84" y="53.34" rot="R90"/>
-<instance part="TP148" gate="G$1" x="243.84" y="48.26" rot="R90"/>
-<instance part="TP149" gate="G$1" x="243.84" y="43.18" rot="R90"/>
-<instance part="TP150" gate="G$1" x="243.84" y="38.1" rot="R90"/>
-<instance part="TP151" gate="G$1" x="251.46" y="83.82" rot="R90"/>
-<instance part="TP152" gate="G$1" x="251.46" y="78.74" rot="R90"/>
-<instance part="TP153" gate="G$1" x="251.46" y="73.66" rot="R90"/>
-<instance part="TP154" gate="G$1" x="251.46" y="68.58" rot="R90"/>
-<instance part="TP155" gate="G$1" x="251.46" y="63.5" rot="R90"/>
-<instance part="TP156" gate="G$1" x="251.46" y="58.42" rot="R90"/>
-<instance part="TP157" gate="G$1" x="251.46" y="53.34" rot="R90"/>
-<instance part="TP158" gate="G$1" x="251.46" y="48.26" rot="R90"/>
-<instance part="TP159" gate="G$1" x="251.46" y="43.18" rot="R90"/>
-<instance part="TP160" gate="G$1" x="251.46" y="38.1" rot="R90"/>
-<instance part="IC1" gate="P" x="55.88" y="58.42"/>
-<instance part="GND2" gate="1" x="76.2" y="10.16"/>
-<instance part="P+3" gate="VCC" x="76.2" y="2.54" rot="R180"/>
-<instance part="P+1" gate="VCC" x="58.42" y="66.04" rot="R270"/>
-<instance part="VCC1" gate="G$1" x="53.34" y="81.28"/>
-<instance part="VCC2" gate="G$1" x="106.68" y="55.88"/>
+<instance part="F0" gate="1" x="58.42" y="60.96" rot="R270"/>
+<instance part="F1" gate="1" x="35.56" y="60.96" rot="R270"/>
+<instance part="LS0" gate="1" x="83.82" y="48.26" rot="R180"/>
+<instance part="LS1" gate="1" x="83.82" y="53.34" rot="R180"/>
+<instance part="IC1" gate="A" x="45.72" y="53.34" rot="R180"/>
+<instance part="IC1" gate="B" x="45.72" y="40.64"/>
+<instance part="IC1" gate="C" x="124.46" y="55.88"/>
+<instance part="IC1" gate="D" x="124.46" y="45.72"/>
+<instance part="IC1" gate="E" x="124.46" y="35.56"/>
+<instance part="IC1" gate="F" x="124.46" y="25.4"/>
+<instance part="T1" gate="G$1" x="76.2" y="40.64"/>
+<instance part="C1" gate="G$1" x="58.42" y="48.26"/>
+<instance part="X1" gate="G$1" x="17.78" y="63.5" rot="MR0"/>
+<instance part="X1" gate="S" x="17.78" y="53.34" rot="MR0"/>
+<instance part="R1" gate="G$1" x="25.4" y="73.66" rot="R90"/>
+<instance part="GND1" gate="1" x="17.78" y="48.26"/>
+<instance part="GND6" gate="1" x="78.74" y="33.02"/>
+<instance part="TP1" gate="G$1" x="45.72" y="17.78"/>
+<instance part="TP2" gate="G$1" x="109.22" y="45.72" rot="R90"/>
+<instance part="TP3" gate="G$1" x="139.7" y="45.72" rot="R270"/>
+<instance part="TP4" gate="G$1" x="109.22" y="35.56" rot="R90"/>
+<instance part="TP5" gate="G$1" x="139.7" y="35.56" rot="R270"/>
+<instance part="TP6" gate="G$1" x="109.22" y="25.4" rot="R90"/>
+<instance part="TP7" gate="G$1" x="139.7" y="25.4" rot="R270"/>
+<instance part="TP8" gate="G$1" x="58.42" y="17.78"/>
+<instance part="TP86" gate="G$1" x="63.5" y="17.78"/>
+<instance part="TP97" gate="G$1" x="73.66" y="48.26" rot="R90"/>
+<instance part="TP98" gate="G$1" x="50.8" y="17.78"/>
+<instance part="IC1" gate="P" x="27.94" y="60.96"/>
+<instance part="GND2" gate="1" x="48.26" y="12.7"/>
+<instance part="P+3" gate="VCC" x="60.96" y="12.7" rot="R180"/>
+<instance part="P+1" gate="VCC" x="30.48" y="68.58" rot="R270"/>
+<instance part="VCC1" gate="G$1" x="25.4" y="83.82"/>
+<instance part="VCC2" gate="G$1" x="78.74" y="58.42"/>
 </instances>
 <busses>
 </busses>
@@ -7909,42 +7760,42 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <segment>
 <pinref part="TP8" gate="G$1" pin="PP"/>
 <pinref part="TP86" gate="G$1" pin="PP"/>
-<wire x1="73.66" y1="5.08" x2="76.2" y2="5.08" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="15.24" x2="60.96" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="P+3" gate="VCC" pin="VCC"/>
-<wire x1="76.2" y1="5.08" x2="78.74" y2="5.08" width="0.1524" layer="91"/>
-<junction x="76.2" y="5.08"/>
+<wire x1="60.96" y1="15.24" x2="63.5" y2="15.24" width="0.1524" layer="91"/>
+<junction x="60.96" y="15.24"/>
 </segment>
 <segment>
 <pinref part="X1" gate="G$1" pin="1"/>
 <pinref part="R1" gate="G$1" pin="1"/>
-<wire x1="53.34" y1="66.04" x2="50.8" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="68.58" x2="22.86" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="IC1" gate="P" pin="VCC"/>
-<wire x1="55.88" y1="66.04" x2="53.34" y2="66.04" width="0.1524" layer="91"/>
-<junction x="53.34" y="66.04"/>
+<wire x1="27.94" y1="68.58" x2="25.4" y2="68.58" width="0.1524" layer="91"/>
+<junction x="25.4" y="68.58"/>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
-<junction x="55.88" y="66.04"/>
+<junction x="27.94" y="68.58"/>
 </segment>
 </net>
 <net name="GND" class="0">
 <segment>
 <pinref part="X1" gate="S" pin="S4"/>
 <pinref part="X1" gate="S" pin="S3"/>
-<wire x1="40.64" y1="48.26" x2="43.18" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="50.8" x2="15.24" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="X1" gate="S" pin="S2"/>
-<wire x1="43.18" y1="48.26" x2="45.72" y2="48.26" width="0.1524" layer="91"/>
-<junction x="43.18" y="48.26"/>
+<wire x1="15.24" y1="50.8" x2="17.78" y2="50.8" width="0.1524" layer="91"/>
+<junction x="15.24" y="50.8"/>
 <pinref part="X1" gate="S" pin="S1"/>
-<wire x1="45.72" y1="48.26" x2="48.26" y2="48.26" width="0.1524" layer="91"/>
-<junction x="45.72" y="48.26"/>
+<wire x1="17.78" y1="50.8" x2="20.32" y2="50.8" width="0.1524" layer="91"/>
+<junction x="17.78" y="50.8"/>
 <pinref part="X1" gate="G$1" pin="5"/>
-<wire x1="48.26" y1="48.26" x2="50.8" y2="48.26" width="0.1524" layer="91"/>
-<wire x1="50.8" y1="48.26" x2="50.8" y2="50.8" width="0.1524" layer="91"/>
-<junction x="48.26" y="48.26"/>
+<wire x1="20.32" y1="50.8" x2="22.86" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="50.8" x2="22.86" y2="53.34" width="0.1524" layer="91"/>
+<junction x="20.32" y="50.8"/>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="IC1" gate="P" pin="GND"/>
-<wire x1="50.8" y1="50.8" x2="50.8" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="55.88" y1="50.8" x2="50.8" y2="50.8" width="0.1524" layer="91"/>
-<junction x="50.8" y="50.8"/>
+<wire x1="22.86" y1="53.34" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="27.94" y1="53.34" x2="22.86" y2="53.34" width="0.1524" layer="91"/>
+<junction x="22.86" y="53.34"/>
 </segment>
 <segment>
 <pinref part="T1" gate="G$1" pin="E"/>
@@ -7953,122 +7804,281 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <segment>
 <pinref part="TP1" gate="G$1" pin="PP"/>
 <pinref part="TP98" gate="G$1" pin="PP"/>
-<wire x1="73.66" y1="12.7" x2="76.2" y2="12.7" width="0.1524" layer="91"/>
+<wire x1="45.72" y1="15.24" x2="48.26" y2="15.24" width="0.1524" layer="91"/>
 <pinref part="GND2" gate="1" pin="GND"/>
-<wire x1="76.2" y1="12.7" x2="78.74" y2="12.7" width="0.1524" layer="91"/>
-<junction x="76.2" y="12.7"/>
+<wire x1="48.26" y1="15.24" x2="50.8" y2="15.24" width="0.1524" layer="91"/>
+<junction x="48.26" y="15.24"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="LS0" gate="1" pin="P"/>
 <pinref part="T1" gate="G$1" pin="C"/>
-<wire x1="109.22" y1="45.72" x2="106.68" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="45.72" x2="106.68" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="48.26" x2="78.74" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="48.26" x2="78.74" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="TP97" gate="G$1" pin="PP"/>
-<wire x1="104.14" y1="45.72" x2="106.68" y2="45.72" width="0.1524" layer="91"/>
-<junction x="106.68" y="45.72"/>
+<wire x1="76.2" y1="48.26" x2="78.74" y2="48.26" width="0.1524" layer="91"/>
+<junction x="78.74" y="48.26"/>
 </segment>
 </net>
 <net name="F1" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="I"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<wire x1="83.82" y1="50.8" x2="86.36" y2="50.8" width="0.1524" layer="91"/>
-<wire x1="86.36" y1="50.8" x2="86.36" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="53.34" x2="58.42" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="53.34" x2="58.42" y2="50.8" width="0.1524" layer="91"/>
 <pinref part="F0" gate="1" pin="P"/>
-<wire x1="86.36" y1="50.8" x2="86.36" y2="55.88" width="0.1524" layer="91"/>
-<junction x="86.36" y="50.8"/>
+<wire x1="58.42" y1="53.34" x2="58.42" y2="58.42" width="0.1524" layer="91"/>
+<junction x="58.42" y="53.34"/>
 </segment>
 </net>
 <net name="N$4" class="0">
 <segment>
 <pinref part="IC1" gate="B" pin="O"/>
 <pinref part="C1" gate="G$1" pin="2"/>
-<wire x1="83.82" y1="38.1" x2="86.36" y2="38.1" width="0.1524" layer="91"/>
-<wire x1="86.36" y1="38.1" x2="86.36" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="55.88" y1="40.64" x2="58.42" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="58.42" y1="40.64" x2="58.42" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="T1" gate="G$1" pin="B"/>
-<wire x1="86.36" y1="38.1" x2="101.6" y2="38.1" width="0.1524" layer="91"/>
-<junction x="86.36" y="38.1"/>
+<wire x1="58.42" y1="40.64" x2="73.66" y2="40.64" width="0.1524" layer="91"/>
+<junction x="58.42" y="40.64"/>
 </segment>
 </net>
 <net name="F0" class="0">
 <segment>
 <pinref part="IC1" gate="A" pin="O"/>
 <pinref part="IC1" gate="B" pin="I"/>
-<wire x1="63.5" y1="50.8" x2="63.5" y2="38.1" width="0.1524" layer="91"/>
+<wire x1="35.56" y1="53.34" x2="35.56" y2="40.64" width="0.1524" layer="91"/>
 <pinref part="F1" gate="1" pin="P"/>
-<wire x1="63.5" y1="55.88" x2="63.5" y2="50.8" width="0.1524" layer="91"/>
-<junction x="63.5" y="50.8"/>
+<wire x1="35.56" y1="58.42" x2="35.56" y2="53.34" width="0.1524" layer="91"/>
+<junction x="35.56" y="53.34"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
 <pinref part="IC1" gate="C" pin="O"/>
-<wire x1="76.2" y1="104.14" x2="76.2" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="55.88" x2="137.16" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
 <segment>
 <pinref part="IC1" gate="D" pin="O"/>
-<wire x1="86.36" y1="104.14" x2="86.36" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="45.72" x2="137.16" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="TP3" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
 <pinref part="IC1" gate="E" pin="O"/>
-<wire x1="96.52" y1="104.14" x2="96.52" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="35.56" x2="137.16" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="TP5" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
 <pinref part="IC1" gate="F" pin="O"/>
-<wire x1="106.68" y1="104.14" x2="106.68" y2="106.68" width="0.1524" layer="91"/>
+<wire x1="134.62" y1="25.4" x2="137.16" y2="25.4" width="0.1524" layer="91"/>
 <pinref part="TP7" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
 <pinref part="IC1" gate="C" pin="I"/>
-<wire x1="76.2" y1="83.82" x2="76.2" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="55.88" x2="111.76" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
 <pinref part="IC1" gate="D" pin="I"/>
-<wire x1="86.36" y1="83.82" x2="86.36" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="45.72" x2="111.76" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="TP2" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
 <pinref part="IC1" gate="E" pin="I"/>
-<wire x1="96.52" y1="83.82" x2="96.52" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="35.56" x2="111.76" y2="35.56" width="0.1524" layer="91"/>
 <pinref part="TP4" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
 <pinref part="IC1" gate="F" pin="I"/>
-<wire x1="106.68" y1="83.82" x2="106.68" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="25.4" x2="111.76" y2="25.4" width="0.1524" layer="91"/>
 <pinref part="TP6" gate="G$1" pin="PP"/>
 </segment>
 </net>
 <net name="VCCIO" class="0">
 <segment>
 <pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="53.34" y1="76.2" x2="53.34" y2="78.74" width="0.1524" layer="91"/>
+<wire x1="25.4" y1="78.74" x2="25.4" y2="81.28" width="0.1524" layer="91"/>
 <pinref part="VCC1" gate="G$1" pin="VCCIO"/>
 </segment>
 <segment>
 <pinref part="LS1" gate="1" pin="P"/>
-<wire x1="106.68" y1="53.34" x2="106.68" y2="50.8" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="50.8" x2="109.22" y2="50.8" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="55.88" x2="78.74" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="78.74" y1="53.34" x2="81.28" y2="53.34" width="0.1524" layer="91"/>
 <pinref part="VCC2" gate="G$1" pin="VCCIO"/>
 </segment>
 </net>
+</nets>
+</sheet>
+<sheet>
+<plain>
+</plain>
+<instances>
+<instance part="TP9" gate="G$1" x="15.24" y="119.38"/>
+<instance part="TP10" gate="G$1" x="10.16" y="119.38"/>
+<instance part="TP11" gate="G$1" x="55.88" y="111.76"/>
+<instance part="TP12" gate="G$1" x="50.8" y="111.76"/>
+<instance part="TP13" gate="G$1" x="45.72" y="111.76"/>
+<instance part="TP14" gate="G$1" x="40.64" y="111.76"/>
+<instance part="TP15" gate="G$1" x="35.56" y="111.76"/>
+<instance part="TP16" gate="G$1" x="30.48" y="111.76"/>
+<instance part="TP17" gate="G$1" x="25.4" y="111.76"/>
+<instance part="TP18" gate="G$1" x="20.32" y="111.76"/>
+<instance part="TP19" gate="G$1" x="15.24" y="111.76"/>
+<instance part="TP20" gate="G$1" x="10.16" y="111.76"/>
+<instance part="TP21" gate="G$1" x="55.88" y="104.14"/>
+<instance part="TP22" gate="G$1" x="50.8" y="104.14"/>
+<instance part="TP23" gate="G$1" x="45.72" y="104.14"/>
+<instance part="TP24" gate="G$1" x="40.64" y="104.14"/>
+<instance part="TP25" gate="G$1" x="35.56" y="104.14"/>
+<instance part="TP26" gate="G$1" x="30.48" y="104.14"/>
+<instance part="TP27" gate="G$1" x="25.4" y="104.14"/>
+<instance part="TP28" gate="G$1" x="20.32" y="104.14"/>
+<instance part="TP29" gate="G$1" x="15.24" y="104.14"/>
+<instance part="TP30" gate="G$1" x="10.16" y="104.14"/>
+<instance part="TP31" gate="G$1" x="55.88" y="96.52"/>
+<instance part="TP32" gate="G$1" x="50.8" y="96.52"/>
+<instance part="TP33" gate="G$1" x="45.72" y="96.52"/>
+<instance part="TP34" gate="G$1" x="40.64" y="96.52"/>
+<instance part="TP35" gate="G$1" x="35.56" y="96.52"/>
+<instance part="TP36" gate="G$1" x="30.48" y="96.52"/>
+<instance part="TP37" gate="G$1" x="25.4" y="96.52"/>
+<instance part="TP38" gate="G$1" x="20.32" y="96.52"/>
+<instance part="TP39" gate="G$1" x="15.24" y="96.52"/>
+<instance part="TP40" gate="G$1" x="10.16" y="96.52"/>
+<instance part="TP41" gate="G$1" x="55.88" y="88.9"/>
+<instance part="TP42" gate="G$1" x="50.8" y="88.9"/>
+<instance part="TP43" gate="G$1" x="45.72" y="88.9"/>
+<instance part="TP44" gate="G$1" x="40.64" y="88.9"/>
+<instance part="TP45" gate="G$1" x="35.56" y="88.9"/>
+<instance part="TP46" gate="G$1" x="30.48" y="88.9"/>
+<instance part="TP47" gate="G$1" x="25.4" y="88.9"/>
+<instance part="TP48" gate="G$1" x="20.32" y="88.9"/>
+<instance part="TP49" gate="G$1" x="15.24" y="88.9"/>
+<instance part="TP50" gate="G$1" x="10.16" y="88.9"/>
+<instance part="TP51" gate="G$1" x="55.88" y="81.28"/>
+<instance part="TP52" gate="G$1" x="50.8" y="81.28"/>
+<instance part="TP53" gate="G$1" x="45.72" y="81.28"/>
+<instance part="TP54" gate="G$1" x="40.64" y="81.28"/>
+<instance part="TP55" gate="G$1" x="35.56" y="81.28"/>
+<instance part="TP56" gate="G$1" x="30.48" y="81.28"/>
+<instance part="TP57" gate="G$1" x="25.4" y="81.28"/>
+<instance part="TP58" gate="G$1" x="20.32" y="81.28"/>
+<instance part="TP59" gate="G$1" x="15.24" y="81.28"/>
+<instance part="TP60" gate="G$1" x="10.16" y="81.28"/>
+<instance part="TP61" gate="G$1" x="55.88" y="73.66"/>
+<instance part="TP62" gate="G$1" x="50.8" y="73.66"/>
+<instance part="TP63" gate="G$1" x="45.72" y="73.66"/>
+<instance part="TP64" gate="G$1" x="40.64" y="73.66"/>
+<instance part="TP65" gate="G$1" x="35.56" y="73.66"/>
+<instance part="TP66" gate="G$1" x="30.48" y="73.66"/>
+<instance part="TP67" gate="G$1" x="25.4" y="73.66"/>
+<instance part="TP68" gate="G$1" x="20.32" y="73.66"/>
+<instance part="TP69" gate="G$1" x="15.24" y="73.66"/>
+<instance part="TP70" gate="G$1" x="10.16" y="73.66"/>
+<instance part="TP71" gate="G$1" x="55.88" y="66.04"/>
+<instance part="TP72" gate="G$1" x="50.8" y="66.04"/>
+<instance part="TP73" gate="G$1" x="45.72" y="66.04"/>
+<instance part="TP74" gate="G$1" x="40.64" y="66.04"/>
+<instance part="TP75" gate="G$1" x="35.56" y="66.04"/>
+<instance part="TP76" gate="G$1" x="30.48" y="66.04"/>
+<instance part="TP77" gate="G$1" x="25.4" y="66.04"/>
+<instance part="TP78" gate="G$1" x="20.32" y="66.04"/>
+<instance part="TP79" gate="G$1" x="15.24" y="66.04"/>
+<instance part="TP80" gate="G$1" x="10.16" y="66.04"/>
+<instance part="TP81" gate="G$1" x="55.88" y="58.42"/>
+<instance part="TP82" gate="G$1" x="50.8" y="58.42"/>
+<instance part="TP83" gate="G$1" x="45.72" y="58.42"/>
+<instance part="TP84" gate="G$1" x="40.64" y="58.42"/>
+<instance part="TP85" gate="G$1" x="35.56" y="58.42"/>
+<instance part="TP87" gate="G$1" x="25.4" y="58.42"/>
+<instance part="TP88" gate="G$1" x="20.32" y="58.42"/>
+<instance part="TP89" gate="G$1" x="15.24" y="58.42"/>
+<instance part="TP90" gate="G$1" x="10.16" y="58.42"/>
+<instance part="TP91" gate="G$1" x="55.88" y="50.8"/>
+<instance part="TP92" gate="G$1" x="50.8" y="50.8"/>
+<instance part="TP93" gate="G$1" x="45.72" y="50.8"/>
+<instance part="TP94" gate="G$1" x="40.64" y="50.8"/>
+<instance part="TP95" gate="G$1" x="35.56" y="50.8"/>
+<instance part="TP96" gate="G$1" x="30.48" y="50.8"/>
+<instance part="TP99" gate="G$1" x="15.24" y="50.8"/>
+<instance part="TP100" gate="G$1" x="10.16" y="50.8"/>
+<instance part="TP101" gate="G$1" x="55.88" y="43.18"/>
+<instance part="TP102" gate="G$1" x="50.8" y="43.18"/>
+<instance part="TP103" gate="G$1" x="45.72" y="43.18"/>
+<instance part="TP104" gate="G$1" x="40.64" y="43.18"/>
+<instance part="TP105" gate="G$1" x="35.56" y="43.18"/>
+<instance part="TP106" gate="G$1" x="30.48" y="43.18"/>
+<instance part="TP107" gate="G$1" x="25.4" y="43.18"/>
+<instance part="TP108" gate="G$1" x="20.32" y="43.18"/>
+<instance part="TP109" gate="G$1" x="15.24" y="43.18"/>
+<instance part="TP110" gate="G$1" x="10.16" y="43.18"/>
+<instance part="TP111" gate="G$1" x="55.88" y="35.56"/>
+<instance part="TP112" gate="G$1" x="50.8" y="35.56"/>
+<instance part="TP113" gate="G$1" x="45.72" y="35.56"/>
+<instance part="TP114" gate="G$1" x="40.64" y="35.56"/>
+<instance part="TP115" gate="G$1" x="35.56" y="35.56"/>
+<instance part="TP116" gate="G$1" x="30.48" y="35.56"/>
+<instance part="TP117" gate="G$1" x="25.4" y="35.56"/>
+<instance part="TP118" gate="G$1" x="20.32" y="35.56"/>
+<instance part="TP119" gate="G$1" x="15.24" y="35.56"/>
+<instance part="TP120" gate="G$1" x="10.16" y="35.56"/>
+<instance part="TP121" gate="G$1" x="55.88" y="27.94"/>
+<instance part="TP122" gate="G$1" x="50.8" y="27.94"/>
+<instance part="TP123" gate="G$1" x="45.72" y="27.94"/>
+<instance part="TP124" gate="G$1" x="40.64" y="27.94"/>
+<instance part="TP125" gate="G$1" x="35.56" y="27.94"/>
+<instance part="TP126" gate="G$1" x="30.48" y="27.94"/>
+<instance part="TP127" gate="G$1" x="25.4" y="27.94"/>
+<instance part="TP128" gate="G$1" x="20.32" y="27.94"/>
+<instance part="TP129" gate="G$1" x="15.24" y="27.94"/>
+<instance part="TP130" gate="G$1" x="10.16" y="27.94"/>
+<instance part="TP131" gate="G$1" x="55.88" y="20.32"/>
+<instance part="TP132" gate="G$1" x="50.8" y="20.32"/>
+<instance part="TP133" gate="G$1" x="45.72" y="20.32"/>
+<instance part="TP134" gate="G$1" x="40.64" y="20.32"/>
+<instance part="TP135" gate="G$1" x="35.56" y="20.32"/>
+<instance part="TP136" gate="G$1" x="30.48" y="20.32"/>
+<instance part="TP137" gate="G$1" x="25.4" y="20.32"/>
+<instance part="TP138" gate="G$1" x="20.32" y="20.32"/>
+<instance part="TP139" gate="G$1" x="15.24" y="20.32"/>
+<instance part="TP140" gate="G$1" x="10.16" y="20.32"/>
+<instance part="TP141" gate="G$1" x="55.88" y="12.7"/>
+<instance part="TP142" gate="G$1" x="50.8" y="12.7"/>
+<instance part="TP143" gate="G$1" x="45.72" y="12.7"/>
+<instance part="TP144" gate="G$1" x="40.64" y="12.7"/>
+<instance part="TP145" gate="G$1" x="35.56" y="12.7"/>
+<instance part="TP146" gate="G$1" x="30.48" y="12.7"/>
+<instance part="TP147" gate="G$1" x="25.4" y="12.7"/>
+<instance part="TP148" gate="G$1" x="20.32" y="12.7"/>
+<instance part="TP149" gate="G$1" x="15.24" y="12.7"/>
+<instance part="TP150" gate="G$1" x="10.16" y="12.7"/>
+<instance part="TP151" gate="G$1" x="55.88" y="5.08"/>
+<instance part="TP152" gate="G$1" x="50.8" y="5.08"/>
+<instance part="TP153" gate="G$1" x="45.72" y="5.08"/>
+<instance part="TP154" gate="G$1" x="40.64" y="5.08"/>
+<instance part="TP155" gate="G$1" x="35.56" y="5.08"/>
+<instance part="TP156" gate="G$1" x="30.48" y="5.08"/>
+<instance part="TP157" gate="G$1" x="25.4" y="5.08"/>
+<instance part="TP158" gate="G$1" x="20.32" y="5.08"/>
+<instance part="TP159" gate="G$1" x="15.24" y="5.08"/>
+<instance part="TP160" gate="G$1" x="10.16" y="5.08"/>
+</instances>
+<busses>
+</busses>
+<nets>
 </nets>
 </sheet>
 </sheets>
