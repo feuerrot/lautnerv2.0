@@ -19,6 +19,3 @@ GND you can also solder some 9V battery connector there.
 
 #### Board
 ![Platinenlayout](img/platinenlayout.png)
-
-#### Board as gif
-![Platinenlayoutgif](img/platinenlayout.gif)
